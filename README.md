@@ -1,6 +1,6 @@
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **(insira seu nome)**
+Autor: **João Carlos da Silva Brito**
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
